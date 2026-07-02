@@ -1,4 +1,5 @@
-# maze.3d.engine
+openjdk-asmtools-jasm Hello.jasm -w .
 
-3d maze game engine
+sudo dnf install openjdk-asmtools.noarch
 
+/usr/bin/openjdk-asmtools-jdis -w . Hello.class
